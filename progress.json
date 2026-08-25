@@ -133,5 +133,14 @@
       "Expected commit message of 'Add the search feature', got 'Delete feature-search branch' instead."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787671834.426337,
+    "completed_at": 1787671837.574091,
+    "comments": [
+      "Expected commit message of 'Add the delete feature', got 'Edit features.md' instead."
+    ],
+    "status": "Incomplete"
   }
 ]
