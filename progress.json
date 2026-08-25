@@ -151,5 +151,14 @@
       "Expected commit message of 'None', got 'Add the delete feature' instead."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787671998.631941,
+    "completed_at": 1787672000.119185,
+    "comments": [
+      "You have successfully completed the exercise!"
+    ],
+    "status": "Completed"
   }
 ]
