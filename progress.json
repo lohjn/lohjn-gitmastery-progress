@@ -124,5 +124,14 @@
       "Reset the repository using \"gitmastery progress reset\" and start again"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787671213.473538,
+    "completed_at": 1787671216.595481,
+    "comments": [
+      "Expected commit message of 'Add the search feature', got 'Delete feature-search branch' instead."
+    ],
+    "status": "Incomplete"
   }
 ]
